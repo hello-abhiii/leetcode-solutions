@@ -1,35 +1,17 @@
-# 🚀 LeetCode Dashboard
+# 🚀 LeetCode Solutions
 
-## 👨‍💻 About
+A collection of my LeetCode solutions in **C++**.
 
-- Language: **C++**
-- Goal: **700 Problems**
-- Updated: **2026-07-24 17:00 UTC**
+This repository is automatically synchronized using **LeetHub v2**.
 
----
+## 📊 Progress
 
-# 📊 Progress
+- ✅ Total Solved: Automatically updated by LeetHub
+- 💻 Language: C++
+- 🎯 Goal: 700 Problems
 
-| Difficulty | Solved |
-|------------|--------|
-| 🟢 Easy | 1 |
-| 🟡 Medium | 0 |
-| 🔴 Hard | 0 |
+## 🏷️ Topics
 
-## Total Solved
+LeetHub automatically categorizes solved problems by topic in this README.
 
-**1 Problems**
-
----
-
-# 🎯 Goal Progress
-
-░░░░░░░░░░░░░░░░░░░░
-
-1/700
-
-0.14%
-
----
-
-⭐ Automatically updated using GitHub Actions.
+Happy Coding! 🚀
