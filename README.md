@@ -15,4 +15,8 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/hello-abhiii/leetcode-solutions/tree/master/0136-single-number) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/hello-abhiii/leetcode-solutions/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
