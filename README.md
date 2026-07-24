@@ -32,4 +32,30 @@
 
 ---
 
+# 🚀 LeetCode Journey
+
+## 📊 Dashboard
+
+<!-- START DASHBOARD -->
+Loading dashboard...
+<!-- END DASHBOARD -->
+
+---
+
+## 👨‍💻 About
+
+🎓 2nd Year B.Tech CSE Student
+
+💻 Language: **C++**
+
+🎯 Goal: **700 Problems**
+
+---
+
+## ⭐ Why this Repository?
+
+This repository contains my LeetCode solutions written in **C++**.
+
+Each solution is automatically synced using **LeetHub v2** and enhanced using **GitHub Actions**.
+
 ⭐ Automatically updated using GitHub Actions.
