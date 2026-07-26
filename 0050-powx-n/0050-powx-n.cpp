@@ -1,25 +1,23 @@
 class Solution {
 public:
-    double fastPow(double x, long long n) {
-        if (n == 0)
-            return 1;
-
-        double half = fastPow(x, n / 2);
-
-        if (n % 2 == 0)
-            return half * half;
-
-        return half * half * x;
-    }
-
     double myPow(double x, int n) {
-        long long power = n;
+        long binForm = n;
+        double ans = 1;
 
-        if (power < 0) {
-            x = 1 / x;
-            power = -power;
+        if(n<0){
+            x = 1/x;
+            binForm = -binForm;
+
         }
 
-        return fastPow(x, power);
+        while(binForm>0){
+        if(binForm % 2 == 1){
+            ans = ans * x;
+        }
+        x *= x;
+            binForm /= 2;
+
+    }
+        return ans;
     }
 };
