@@ -22,6 +22,6 @@ public:
             }
 
         }
-return total;
+        return total;
     }
 };
