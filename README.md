@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/hello-abhiii/leetcode-solutions/tree/master/0001-two-sum) |
+| [0033-search-in-rotated-sorted-array](https://github.com/hello-abhiii/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/hello-abhiii/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/hello-abhiii/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0136-single-number](https://github.com/hello-abhiii/leetcode-solutions/tree/master/0136-single-number) |
@@ -72,4 +73,8 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/hello-abhiii/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+## Binary Search
+|  |
+| ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/hello-abhiii/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
