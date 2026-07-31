@@ -10,6 +10,7 @@
 | [0042-trapping-rain-water](https://github.com/hello-abhiii/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/hello-abhiii/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0136-single-number](https://github.com/hello-abhiii/leetcode-solutions/tree/master/0136-single-number) |
+| [0152-maximum-product-subarray](https://github.com/hello-abhiii/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/hello-abhiii/leetcode-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/hello-abhiii/leetcode-solutions/tree/master/0217-contains-duplicate) |
 ## Hash Table
@@ -42,6 +43,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/hello-abhiii/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/hello-abhiii/leetcode-solutions/tree/master/0053-maximum-subarray) |
+| [0152-maximum-product-subarray](https://github.com/hello-abhiii/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 | [0509-fibonacci-number](https://github.com/hello-abhiii/leetcode-solutions/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
