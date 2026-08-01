@@ -16,9 +16,9 @@ public:
 
         int total = 0;
         for(int i=0; i<n; i++){
-            int single_water = min(leftmax[i], rightmax[i]) - height[i];
-            if(single_water > 0){
-                total += single_water;
+            int single_Water = min(leftmax[i], rightmax[i]) - height[i];
+            if(single_Water > 0){
+                total += single_Water;
             }
 
         }
