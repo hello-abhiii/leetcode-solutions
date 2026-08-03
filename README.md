@@ -13,6 +13,7 @@
 | [0152-maximum-product-subarray](https://github.com/hello-abhiii/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/hello-abhiii/leetcode-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/hello-abhiii/leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [1920-build-array-from-permutation](https://github.com/hello-abhiii/leetcode-solutions/tree/master/1920-build-array-from-permutation) |
 ## Hash Table
 |  |
 | ------- |
@@ -79,4 +80,8 @@
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/hello-abhiii/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
+## Simulation
+|  |
+| ------- |
+| [1920-build-array-from-permutation](https://github.com/hello-abhiii/leetcode-solutions/tree/master/1920-build-array-from-permutation) |
 <!---LeetCode Topics End-->
