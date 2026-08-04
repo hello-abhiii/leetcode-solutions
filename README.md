@@ -9,6 +9,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/hello-abhiii/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/hello-abhiii/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/hello-abhiii/leetcode-solutions/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/hello-abhiii/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0136-single-number](https://github.com/hello-abhiii/leetcode-solutions/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/hello-abhiii/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/hello-abhiii/leetcode-solutions/tree/master/0169-majority-element) |
@@ -84,5 +85,10 @@
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/hello-abhiii/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [1920-build-array-from-permutation](https://github.com/hello-abhiii/leetcode-solutions/tree/master/1920-build-array-from-permutation) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/hello-abhiii/leetcode-solutions/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
