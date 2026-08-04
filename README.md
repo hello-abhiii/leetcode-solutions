@@ -15,6 +15,7 @@
 | [0169-majority-element](https://github.com/hello-abhiii/leetcode-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/hello-abhiii/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/hello-abhiii/leetcode-solutions/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
+| [1572-matrix-diagonal-sum](https://github.com/hello-abhiii/leetcode-solutions/tree/master/1572-matrix-diagonal-sum) |
 | [1920-build-array-from-permutation](https://github.com/hello-abhiii/leetcode-solutions/tree/master/1920-build-array-from-permutation) |
 ## Hash Table
 |  |
@@ -91,4 +92,5 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/hello-abhiii/leetcode-solutions/tree/master/0054-spiral-matrix) |
+| [1572-matrix-diagonal-sum](https://github.com/hello-abhiii/leetcode-solutions/tree/master/1572-matrix-diagonal-sum) |
 <!---LeetCode Topics End-->
