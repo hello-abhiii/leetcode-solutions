@@ -97,4 +97,8 @@
 | [0054-spiral-matrix](https://github.com/hello-abhiii/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/hello-abhiii/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [1572-matrix-diagonal-sum](https://github.com/hello-abhiii/leetcode-solutions/tree/master/1572-matrix-diagonal-sum) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/hello-abhiii/leetcode-solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
