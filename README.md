@@ -16,6 +16,7 @@
 | [0217-contains-duplicate](https://github.com/hello-abhiii/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0240-search-a-2d-matrix-ii](https://github.com/hello-abhiii/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/hello-abhiii/leetcode-solutions/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
+| [1480-running-sum-of-1d-array](https://github.com/hello-abhiii/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1572-matrix-diagonal-sum](https://github.com/hello-abhiii/leetcode-solutions/tree/master/1572-matrix-diagonal-sum) |
 | [1920-build-array-from-permutation](https://github.com/hello-abhiii/leetcode-solutions/tree/master/1920-build-array-from-permutation) |
 ## Hash Table
@@ -101,4 +102,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/hello-abhiii/leetcode-solutions/tree/master/0169-majority-element) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/hello-abhiii/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
