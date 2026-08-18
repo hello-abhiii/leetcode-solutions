@@ -18,6 +18,7 @@
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/hello-abhiii/leetcode-solutions/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
 | [1480-running-sum-of-1d-array](https://github.com/hello-abhiii/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1572-matrix-diagonal-sum](https://github.com/hello-abhiii/leetcode-solutions/tree/master/1572-matrix-diagonal-sum) |
+| [1672-richest-customer-wealth](https://github.com/hello-abhiii/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
 | [1920-build-array-from-permutation](https://github.com/hello-abhiii/leetcode-solutions/tree/master/1920-build-array-from-permutation) |
 ## Hash Table
 |  |
@@ -98,6 +99,7 @@
 | [0054-spiral-matrix](https://github.com/hello-abhiii/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/hello-abhiii/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [1572-matrix-diagonal-sum](https://github.com/hello-abhiii/leetcode-solutions/tree/master/1572-matrix-diagonal-sum) |
+| [1672-richest-customer-wealth](https://github.com/hello-abhiii/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
