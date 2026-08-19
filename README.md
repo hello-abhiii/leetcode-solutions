@@ -28,6 +28,7 @@
 | [0001-two-sum](https://github.com/hello-abhiii/leetcode-solutions/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/hello-abhiii/leetcode-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/hello-abhiii/leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/hello-abhiii/leetcode-solutions/tree/master/0242-valid-anagram) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -70,6 +71,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/hello-abhiii/leetcode-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/hello-abhiii/leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/hello-abhiii/leetcode-solutions/tree/master/0242-valid-anagram) |
 ## Counting
 |  |
 | ------- |
@@ -111,4 +113,8 @@
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/hello-abhiii/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
+## String
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/hello-abhiii/leetcode-solutions/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
