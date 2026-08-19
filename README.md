@@ -15,6 +15,7 @@
 | [0169-majority-element](https://github.com/hello-abhiii/leetcode-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/hello-abhiii/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0240-search-a-2d-matrix-ii](https://github.com/hello-abhiii/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0283-move-zeroes](https://github.com/hello-abhiii/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/hello-abhiii/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/hello-abhiii/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/hello-abhiii/leetcode-solutions/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
@@ -80,6 +81,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/hello-abhiii/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0283-move-zeroes](https://github.com/hello-abhiii/leetcode-solutions/tree/master/0283-move-zeroes) |
 ## Stack
 |  |
 | ------- |
