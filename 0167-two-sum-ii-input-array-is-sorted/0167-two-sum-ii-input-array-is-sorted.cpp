@@ -3,19 +3,19 @@ public:
     vector<int> twoSum(vector<int>& numbers, int target) {
         vector<int> output;
         int n = numbers.size();
-        int st = 0;
+        int start = 0;
         int end = n-1;
-        while(st < end) {
-            if((numbers[st] + numbers[end]) == target){
-                output.push_back(st+1);
+        while(start < end) {
+            if((numbers[start] + numbers[end]) == target){
+                output.push_back(start+1);
                 output.push_back(end+1);
                 break;   // to avoid TLE
             }
-            else if((numbers[st] + numbers[end]) > target){
+            else if((numbers[start] + numbers[end]) > target){
                 end--;
             }
             else{
-                st++;
+                start++;
             }
         }
         return output;
