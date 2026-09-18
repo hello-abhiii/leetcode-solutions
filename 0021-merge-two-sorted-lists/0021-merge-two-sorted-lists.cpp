@@ -31,9 +31,11 @@ public:
 
         if(i != NULL){
             curr->next = i;
+            curr = curr->next;
         }
         else{
             curr->next = j;
+            curr = curr->next;
         }
 
         return dummy->next;
