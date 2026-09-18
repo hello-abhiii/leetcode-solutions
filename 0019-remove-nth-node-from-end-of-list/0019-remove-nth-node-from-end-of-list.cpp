@@ -20,7 +20,7 @@ public:
 
         ListNode* prev = head;
 
-        if(n==size){
+        if(n==size){ // boundary case when we want to remove the head of the linked list
             head = prev->next;
             return head;
         }
