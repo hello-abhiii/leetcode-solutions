@@ -151,6 +151,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/hello-abhiii/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/hello-abhiii/leetcode-solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/hello-abhiii/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/hello-abhiii/leetcode-solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -167,10 +168,12 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/hello-abhiii/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/hello-abhiii/leetcode-solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/hello-abhiii/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/hello-abhiii/leetcode-solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/hello-abhiii/leetcode-solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/hello-abhiii/leetcode-solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Binary Lifting
 |  |
 | ------- |
