@@ -96,6 +96,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/hello-abhiii/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0094-binary-tree-inorder-traversal](https://github.com/hello-abhiii/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/hello-abhiii/leetcode-solutions/tree/master/0143-reorder-list) |
 ## Monotonic Stack
 |  |
@@ -148,6 +149,7 @@
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/hello-abhiii/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/hello-abhiii/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/hello-abhiii/leetcode-solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/hello-abhiii/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
@@ -155,6 +157,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/hello-abhiii/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/hello-abhiii/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/hello-abhiii/leetcode-solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/hello-abhiii/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
@@ -165,6 +168,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/hello-abhiii/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/hello-abhiii/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/hello-abhiii/leetcode-solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/hello-abhiii/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
