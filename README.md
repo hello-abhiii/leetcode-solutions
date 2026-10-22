@@ -18,6 +18,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/hello-abhiii/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/hello-abhiii/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/hello-abhiii/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
+| [0704-binary-search](https://github.com/hello-abhiii/leetcode-solutions/tree/master/0704-binary-search) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/hello-abhiii/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/hello-abhiii/leetcode-solutions/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
 | [1480-running-sum-of-1d-array](https://github.com/hello-abhiii/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
@@ -111,6 +112,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/hello-abhiii/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/hello-abhiii/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0240-search-a-2d-matrix-ii](https://github.com/hello-abhiii/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0704-binary-search](https://github.com/hello-abhiii/leetcode-solutions/tree/master/0704-binary-search) |
 ## Simulation
 |  |
 | ------- |
